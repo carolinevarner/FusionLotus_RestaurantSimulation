@@ -1,0 +1,28 @@
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.deps.json
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.runtimeconfig.json
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.dll
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.pdb
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.GeneratedMSBuildEditorConfig.editorconfig
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfoInputs.cache
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfo.cs
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.csproj.CoreCompileInputs.cache
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.dll
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/refint/ChefLogger.dll
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.pdb
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.genruntimeconfig.cache
+/home/cvarner/IPC_Project/IPC_Project/ChefLogger/obj/Debug/net8.0/ref/ChefLogger.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.deps.json
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.runtimeconfig.json
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.pdb
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfoInputs.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfo.cs
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/refint/ChefLogger.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.pdb
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.genruntimeconfig.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/ChefLogger/obj/Debug/net8.0/ref/ChefLogger.dll

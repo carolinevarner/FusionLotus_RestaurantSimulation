@@ -1,0 +1,28 @@
+/home/cvarner/IPC_Project/IPC_Project/LogReader/bin/Debug/net8.0/LogReader
+/home/cvarner/IPC_Project/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.deps.json
+/home/cvarner/IPC_Project/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.runtimeconfig.json
+/home/cvarner/IPC_Project/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.dll
+/home/cvarner/IPC_Project/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.pdb
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfoInputs.cache
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfo.cs
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.csproj.CoreCompileInputs.cache
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.dll
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/refint/LogReader.dll
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.pdb
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.genruntimeconfig.cache
+/home/cvarner/IPC_Project/IPC_Project/LogReader/obj/Debug/net8.0/ref/LogReader.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/bin/Debug/net8.0/LogReader
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.deps.json
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.runtimeconfig.json
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.pdb
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfoInputs.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfo.cs
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/refint/LogReader.dll
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.pdb
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.genruntimeconfig.cache
+/mnt/c/Users/Owner/OneDrive - Kennesaw State University/Desktop/Project1_CS3502/Project B/IPC_Project/LogReader/obj/Debug/net8.0/ref/LogReader.dll

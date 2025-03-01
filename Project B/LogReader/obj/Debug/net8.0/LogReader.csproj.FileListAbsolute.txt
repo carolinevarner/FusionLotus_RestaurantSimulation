@@ -1,0 +1,14 @@
+/home/cvarner/IPC_Project/LogReader/bin/Debug/net8.0/LogReader
+/home/cvarner/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.deps.json
+/home/cvarner/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.runtimeconfig.json
+/home/cvarner/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.dll
+/home/cvarner/IPC_Project/LogReader/bin/Debug/net8.0/LogReader.pdb
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.GeneratedMSBuildEditorConfig.editorconfig
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfoInputs.cache
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.AssemblyInfo.cs
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.csproj.CoreCompileInputs.cache
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.dll
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/refint/LogReader.dll
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.pdb
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/LogReader.genruntimeconfig.cache
+/home/cvarner/IPC_Project/LogReader/obj/Debug/net8.0/ref/LogReader.dll

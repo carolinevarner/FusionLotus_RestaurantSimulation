@@ -1,0 +1,14 @@
+/home/cvarner/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger
+/home/cvarner/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.deps.json
+/home/cvarner/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.runtimeconfig.json
+/home/cvarner/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.dll
+/home/cvarner/IPC_Project/ChefLogger/bin/Debug/net8.0/ChefLogger.pdb
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.GeneratedMSBuildEditorConfig.editorconfig
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfoInputs.cache
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.AssemblyInfo.cs
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.csproj.CoreCompileInputs.cache
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.dll
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/refint/ChefLogger.dll
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.pdb
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ChefLogger.genruntimeconfig.cache
+/home/cvarner/IPC_Project/ChefLogger/obj/Debug/net8.0/ref/ChefLogger.dll

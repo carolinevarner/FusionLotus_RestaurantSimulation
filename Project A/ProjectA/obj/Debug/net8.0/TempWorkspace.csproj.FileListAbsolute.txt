@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\bin\Debug\net8.0\TempWorkspace.exe
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\bin\Debug\net8.0\TempWorkspace.deps.json
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\bin\Debug\net8.0\TempWorkspace.runtimeconfig.json
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\bin\Debug\net8.0\TempWorkspace.dll
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\bin\Debug\net8.0\TempWorkspace.pdb
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.AssemblyInfo.cs
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.dll
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\refint\TempWorkspace.dll
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.pdb
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\TempWorkspace.genruntimeconfig.cache
+C:\Users\Owner\source\repos\TempWorkspace\TempWorkspace\obj\Debug\net8.0\ref\TempWorkspace.dll
