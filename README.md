@@ -1,17 +1,34 @@
-# Project1_CS3502
+# Operating Systems Projects: Multi-Threading & Inter-Process Communication (IPC)
 
-This repository contains two projects:
-1. **IPC Project**: Demonstrates Inter-Process Communication (IPC) using named pipes in C#.
-2. **Threading Project**: Simulates a restaurant order processing system using multi-threading in C#.
+## **Overview**
+This repository contains two projects that demonstrate key operating system concepts:  
+1. **Multi-Threading Implementation (LotusFusionRestaurant)** – A restaurant simulation using C# that showcases threading concepts, including resource protection, deadlocks, and synchronization.  
+2. **Inter-Process Communication (IPC) Project** – A C# program using named pipes to enable communication between separate processes (ChefLogger and LogReader).  
 
-## IPC Project
-- **Files**: `ChefLogger.cs`, `LogReader.cs`
-- **Description**: This project implements a producer-consumer pattern using named pipes to facilitate real-time data exchange between two processes.
+Both projects emphasize **process and thread management**, **data synchronization**, and **efficient inter-process communication**.
 
-## Threading Project
-- **Files**: `LotusFusionRestaurant.cs`
-- **Description**: This project simulates a restaurant kitchen with multiple chefs processing orders concurrently using threads.
+---
 
-## How to Run
-- Clone the repository and open the solution in Visual Studio.
-- Build and run the projects to see the IPC and threading implementations in action.
+## **Project A: Multi-Threading Implementation (LotusFusionRestaurant)**  
+### **Description**  
+The multi-threading project simulates a restaurant kitchen where multiple chefs prepare orders concurrently. The project includes four phases:  
+1. **Basic Thread Operations** – Creates multiple threads to process orders.  
+2. **Resource Protection** – Uses mutex locks and semaphores to prevent race conditions.  
+3. **Deadlock Creation** – Introduces a deadlock scenario to demonstrate thread contention.  
+4. **Deadlock Resolution** – Implements deadlock prevention techniques, such as lock ordering and timeouts.  
+
+### **How It Works**  
+- A queue holds 100 customer orders.
+- 15 chef threads process orders concurrently.
+- Synchronization mechanisms like **locks and semaphores** ensure proper order execution.
+- Deadlocks are intentionally created and then resolved.
+
+### **Building & Running**  
+#### **Prerequisites**  
+- .NET SDK (version 6.0 or later)  
+
+#### **Steps to Run**  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/your-repo/OS-Projects.git
+   cd OS-Projects/LotusFusionRestaurant
