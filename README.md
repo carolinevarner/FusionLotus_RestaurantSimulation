@@ -36,8 +36,8 @@ The multi-threading project simulates a restaurant kitchen where multiple chefs 
 ## **Project B: Inter-Process Communication (IPC)**  
 ### **Description**  
 The IPC project consists of two separate C# programs that communicate using named pipes:
-1. **ChefLogger – Writes simulated restaurant order logs.
-2. **LogReader – Reads and displays logs in real time.
+1. ChefLogger – Writes simulated restaurant order logs.
+2. LogReader – Reads and displays logs in real time.
 
 ### **How It Works**  
 - ChefLogger continuously writes logs to a named pipe.
@@ -94,7 +94,7 @@ The IPC project consists of two separate C# programs that communicate using name
 - If connection issues persist, restart both programs.
 
 ### **Issue 2: WSL File Access (Windows Users)**  
-1. If accessing WSL files from Windows Explorer gives an error (\\wsl$\Ubuntu\home\your-username\IPC_Project not found), try restarting WSL: 
+- If accessing WSL files from Windows Explorer gives an error (\\wsl$\Ubuntu\home\your-username\IPC_Project not found), try restarting WSL: 
    ```sh
    wsl --shutdown
    wsl
@@ -104,7 +104,7 @@ The IPC project consists of two separate C# programs that communicate using name
 - If the simulation appears stuck, it's simulating a deadlock—wait for the program to resolve it.
 
 ## **Repository Structure**  
-1. Install the .NET SDK:  
+- Install the .NET SDK:  
    ```bash
    OS-Projects/
    │── LotusFusionRestaurant/  # Multi-threading project
