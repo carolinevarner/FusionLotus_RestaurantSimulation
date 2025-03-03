@@ -88,22 +88,22 @@ The IPC project consists of two separate C# programs that communicate using name
    ```sh
       dotnet --version
 
-### **Known Issues**  
-#### **Issue 1: Named Pipe Connection Delay**  
+## **Known Issues**  
+### **Issue 1: Named Pipe Connection Delay**  
 - The LogReader may take a few seconds to connect to ChefLogger due to system delays.
 - If connection issues persist, restart both programs.
 
-#### **Issue 2: WSL File Access (Windows Users)**  
+### **Issue 2: WSL File Access (Windows Users)**  
 1. If accessing WSL files from Windows Explorer gives an error (\\wsl$\Ubuntu\home\your-username\IPC_Project not found), try restarting WSL: 
    ```sh
    wsl --shutdown
    wsl
 
-#### **Issue 3: Deadlock in Threading Project**
+### **Issue 3: Deadlock in Threading Project**
 - The LotusFusionRestaurant simulation intentionally creates deadlocks before resolving them.
 - If the simulation appears stuck, it's simulating a deadlock—wait for the program to resolve it.
 
-#### **Repository Structure**  
+## **Repository Structure**  
 1. Install the .NET SDK:  
    ```bash
    OS-Projects/
@@ -125,7 +125,7 @@ The IPC project consists of two separate C# programs that communicate using name
    │
    └── README.md               # Main project documentation
 
-#### **Contributors**  
+## **Contributors**  
 - Caroline Varner
 - Course: CS 3502 - Operating Systems
 - Instructor: Chris Regan
