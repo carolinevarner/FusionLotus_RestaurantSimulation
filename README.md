@@ -127,8 +127,8 @@ The IPC project consists of two separate C# programs that communicate using name
 
 ## **Contributors**  
 - Caroline Varner
-- Course: CS 3503 - Computer Organization and Architecture 
-- Instructor: Waqas Majeed
+- Course: CS 3502 - Operating Systems 
+- Instructor: Chris Regan
 - University: Kennesaw State University
 
 
